@@ -2,7 +2,7 @@
 ### Sobre
 Projeto foi criado a partir da aula "Recriando o jogo da cobrinha com JavaScript", do DioLabs, na [Digital Innovation One](https://digitalinnovation.one/ "Digital Innovation One")
 
-Foi alterado apenas algumas caracteríscas do css, como a cor do body, do canvas e da cobrinha.
+Foi alterado apenas algumas características do css, como a cor do body, do canvas e da cobrinha.
 
 ---
 
