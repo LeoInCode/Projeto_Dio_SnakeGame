@@ -1,0 +1,25 @@
+body {
+    background-color: #010101;
+    justify-content: center;
+}
+
+.content {
+    display: flex;
+    height: 95vh;
+    width: 95;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.content canvas {
+    margin: 20px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-height: 512px;
+}
+
+.content h1{
+    color: #ffff;
+    text-align: center;
+}
